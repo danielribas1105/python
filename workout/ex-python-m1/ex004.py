@@ -1,0 +1,5 @@
+n=int(float(input('Digite um número = ')))
+print('O número digitado foi = {}'.format(n))
+print('Seu dobro vale = {}'.format(n*2))
+print('Seu triplo vale = {}'.format(n*3))
+print('Sua raiz quadrada vale = {}'.format(n*(1/2)))
