@@ -3,3 +3,11 @@ maça
 manga
 banana
 morango
+laranja
+pêra
+goiaba
+trangerina
+nêspera
+uva
+framboesa
+
